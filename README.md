@@ -17,3 +17,4 @@ This project focuses on analyzing the Bike Sales Dataset using Excel for a compr
 - **Purchased Bike:** Specifies whether the customer purchased a bike or not.
 
 ## Conclusions
+![](Bike Sales.png)
